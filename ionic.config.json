@@ -1,0 +1,7 @@
+{
+    "name": "code-blue",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
